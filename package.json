@@ -12,6 +12,7 @@
     "thumbnail",
     "automatic"
   ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Joe Gibbs",
   "license": "MIT",
   "dependencies": {
