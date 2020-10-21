@@ -13,7 +13,7 @@
     "automatic"
   ],
   "author": "Joe Gibbs",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "capture-website": "^1.2.4",
     "sharp": "^0.26.2",
