@@ -1,0 +1,22 @@
+{
+  "name": "auto-thumbnail",
+  "version": "1.0.0",
+  "description": "Generates thumbnails from HTML files or webpages",
+  "main": "thumb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "thumbnails",
+    "opengraph",
+    "thumbnail",
+    "automatic"
+  ],
+  "author": "Joe Gibbs",
+  "license": "ISC",
+  "dependencies": {
+    "capture-website": "^1.2.4",
+    "sharp": "^0.26.2",
+    "smartcrop-sharp": "^2.0.3"
+  }
+}
