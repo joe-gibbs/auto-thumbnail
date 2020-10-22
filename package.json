@@ -1,5 +1,9 @@
 {
-  "name": "auto-thumbnail",
+  "name": "@joe-gibbs/auto-thumbnail",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joe-gibbs/auto-thumbnail"
+  },
   "version": "1.0.0",
   "description": "Generates thumbnails from HTML files or webpages",
   "main": "thumb.js",
@@ -12,7 +16,7 @@
     "thumbnail",
     "automatic"
   ],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/joe-gibbs" },
   "author": "Joe Gibbs",
   "license": "MIT",
   "dependencies": {
