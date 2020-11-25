@@ -1,5 +1,7 @@
 # auto-thumbnail
 
+![auto-thumbnail demo](https://github.com/joe-gibbs/jgibbs.dev/blob/main/assets/auto-thumbnail-demo.gif?raw=true)
+
 Auto-thumbnail generates thumbnails from your pages using headless Chrome and Smartcrop to crop towards the most interesting parts of the page.
 
 ## Usage
